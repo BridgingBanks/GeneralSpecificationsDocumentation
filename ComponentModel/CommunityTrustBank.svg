@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="13" width="904" height="470">
+	<desc>UML diagram model</desc>
+	<g id="_vVu0InFoEea5146oo2aJcA">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EEEEEE" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="0.4" />
+				
+			</linearGradient>
+			<linearGradient id="executionSpecificationGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1" />
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_86m3oFOWEDSCrqeVHbTKew">
+			<rect x="50" y="20" width="145" height="27" rx="3" ry="3" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1" />
+			<text x="56" y="36" font-weight="bold" fill="#806221">CommunityTrustBank</text>
+			<rect x="50" y="44" width="804" height="376" rx="0" ry="0" fill="url(#packageGradient)" stroke="#c2b79f" stroke-width="1" />
+			
+		</g>
+		<g id="_DTQbwFOXEDSCrqeVHbTKew">
+			<rect x="78" y="68" width="198" height="240" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="83" y="86" font-style="normal" font-weight="bold" fill="#2d2d2d">Identity Account</text>
+			
+		</g>
+		<g id="_O2nxQFOXEDSCrqeVHbTKew">
+			<rect x="318" y="68" width="220" height="200" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="323" y="86" font-style="normal" font-weight="bold" fill="#2d2d2d">Financial Accounts</text>
+			
+		</g>
+		<g id="_JTuegFOZEDSCrqeVHbTKew">
+			<rect x="92" y="114" width="170" height="40" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="97" y="132" font-style="normal" font-weight="bold" fill="#2d2d2d">Identification</text>
+			
+		</g>
+		<g id="_QG6pkFOZEDSCrqeVHbTKew">
+			<rect x="92" y="161" width="170" height="40" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="97" y="179" font-style="normal" font-weight="bold" fill="#2d2d2d">Authentication</text>
+			
+		</g>
+		<g id="_UohzkFOZEDSCrqeVHbTKew">
+			<rect x="92" y="206" width="170" height="40" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="97" y="224" font-style="normal" font-weight="bold" fill="#2d2d2d">Authorization</text>
+			
+		</g>
+		<g id="_g0Z6kFOZEDSCrqeVHbTKew">
+			<rect x="328" y="104" width="200" height="60" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="333" y="122" font-style="normal" font-weight="bold" fill="#2d2d2d">Saving Accounts</text>
+			
+		</g>
+		<g id="_mSfT4FOZEDSCrqeVHbTKew">
+			<rect x="328" y="177" width="200" height="60" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="333" y="195" font-style="normal" font-weight="bold" fill="#2d2d2d">Loan Account</text>
+			
+		</g>
+		<g id="_YP_NAFOaEDSCrqeVHbTKew">
+			<rect x="575" y="68" width="240" height="200" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="580" y="86" font-style="normal" font-weight="bold" fill="#2d2d2d">Ledgers</text>
+			
+		</g>
+		<g id="_e6QsoFOaEDSCrqeVHbTKew">
+			<rect x="586" y="109" width="210" height="50" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="591" y="127" font-style="normal" font-weight="bold" fill="#2d2d2d">Financial Ledgers</text>
+			
+		</g>
+		<g id="_mJLxcFOaEDSCrqeVHbTKew">
+			<rect x="589" y="177" width="210" height="60" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="594" y="195" font-style="normal" font-weight="bold" fill="#2d2d2d">Legal Ledger</text>
+			
+		</g>
+		<g id="_3nTOIFOaEDSCrqeVHbTKew">
+			<rect x="92" y="251" width="170" height="40" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="97" y="269" font-style="normal" font-weight="bold" fill="#2d2d2d">Attributes</text>
+			
+		</g>
+		<g id="_CLRjMFObEDSCrqeVHbTKew">
+			<rect x="581" y="281" width="230" height="120" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="586" y="299" font-style="normal" font-weight="bold" fill="#2d2d2d">I/O API</text>
+			
+		</g>
+		<g id="_NEV-gFObEDSCrqeVHbTKew">
+			<rect x="77" y="318" width="200" height="83" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="82" y="336" font-style="normal" font-weight="bold" fill="#2d2d2d">Cryptography</text>
+			
+		</g>
+		<g id="_rg61sFObEDSCrqeVHbTKew">
+			<rect x="323" y="284" width="210" height="113" rx="2" ry="3" fill="#fff" fill-opacity="0.5" stroke="#BBBBBB" stroke-width="1" />
+			<text x="328" y="302" font-style="normal" font-weight="bold" fill="#2d2d2d">Mobile Wallet</text>
+			
+		</g>
+		
+	</g>
+	
+</svg>
